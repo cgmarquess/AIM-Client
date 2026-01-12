@@ -13,3 +13,5 @@ Projeto de estudo e implementação de um cliente de chat baseado na engenharia 
 * Login com criptografia proprietária (Roasting).
 * Envio e recebimento de Mensagens Diretas (IM).
 * Gerenciamento de Salas de Chat e Lista de Amigos.
+
+Desenvolvido por [Gabriel Marques] - [[LinkedIn](https://www.linkedin.com/in/cgmarquess/)]
