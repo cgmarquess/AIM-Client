@@ -50,4 +50,4 @@ mvn test
 mvn exec:java
 ```
 
-Developed by [Gabriel Marques] - [[LinkedIn]](https://www.linkedin.com/in/cgmarquess/?locale=en_US)
+Developed by [Gabriel Marques] - [[LinkedIn](https://www.linkedin.com/in/cgmarquess/?locale=en_US)]
