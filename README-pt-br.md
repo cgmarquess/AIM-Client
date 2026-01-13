@@ -1,3 +1,10 @@
+<div align="center">
+  
+  [![Português](https://img.shields.io/badge/Português-green)](README.pt-br.md)
+  [![English](https://img.shields.io/badge/English-blue)](README.md)
+
+</div>
+
 # AIM Client - Implementação do Protocolo TOC2
 
 Projeto de estudo e implementação de um cliente de chat baseado na engenharia reversa do protocolo TOC2 da AOL (AIM). 
