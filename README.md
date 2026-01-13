@@ -13,11 +13,11 @@ This project focuses on studying low-level networking, binary data handling, and
 
 ## Technical Highlights
 
-* **Low-Level Networking:** Implemented TCP/IP communication using raw `java.net.Socket` and I/O streams, bypassing high-level frameworks to understand the core of network programming.
-* **Binary & Text Protocol:** Handled binary framing (SFLAP) and text-based command parsing manually.
-* **Clean Architecture:** Refactored legacy patterns (Java 1.4 era) into modern Java 21 standards, clearly separating Connection, Messaging, and UI layers.
+* **Low-Level Networking:** Engineered the TCP/IP communication layer using raw `java.net.Socket` and I/O Streams, bypassing high-level frameworks to demonstrate granular control over data packets.
+* **Binary & Text Protocol:** Manually handled binary framing (SFLAP) and text-based command parsing from the legacy protocol.
+* **Clean Architecture:** Refactored legacy patterns (Java 1.4 era) into modern Java 21 standards, strictly separating Connection, Messaging, and UI layers.
 * **Concurrency:** Utilized Threads and Lambdas for asynchronous message processing.
-* **Automated Testing:** Comprehensive JUnit 5 test suite covering proprietary encryption ("roasting"), packet framing, and command parsing.
+* **Automated Testing:** Built a comprehensive JUnit 5 test suite covering proprietary encryption ("roasting"), packet framing, and command parsing.
 
 ## Features
 
@@ -32,4 +32,22 @@ This project focuses on studying low-level networking, binary data handling, and
 * **Java Sockets (java.net)**
 * **Maven**
 
-Developed by [Gabriel Marques] - [LinkedIn](https://www.linkedin.com/in/cgmarquess/?locale=en_US)
+## How to Run
+1. Clone the repository:
+```bash
+git clone https://github.com/cgmarquess/aim-client.git
+```
+2. Navigate to the project directory:
+```bash
+cd aim-client
+```
+3. Run tests to validate the protocol logic:
+```bash
+mvn test
+```
+4. Run the application:
+```bash
+mvn exec:java
+```
+
+Developed by [Gabriel Marques] - [[LinkedIn]](https://www.linkedin.com/in/cgmarquess/?locale=en_US)
