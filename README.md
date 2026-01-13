@@ -32,4 +32,4 @@ This project focuses on studying low-level networking, binary data handling, and
 * **Java Sockets (java.net)**
 * **Maven**
 
-Developed by [Gabriel Marques] - [[LinkedIn](https://www.linkedin.com/in/cgmarquess/?locale=en_US)
+Developed by [Gabriel Marques] - [LinkedIn](https://www.linkedin.com/in/cgmarquess/?locale=en_US)
