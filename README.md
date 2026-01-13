@@ -31,3 +31,5 @@ This project focuses on studying low-level networking, binary data handling, and
 * **JUnit 5**
 * **Java Sockets (java.net)**
 * **Maven**
+
+Developed by [Gabriel Marques] - [[LinkedIn](https://www.linkedin.com/in/cgmarquess/?locale=en_US)
